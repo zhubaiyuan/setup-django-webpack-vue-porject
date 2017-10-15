@@ -120,3 +120,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+webpack-stats.json
+public/
+dist/
